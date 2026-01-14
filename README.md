@@ -1,16 +1,16 @@
-## Hi there 👋
+## I'm HEIKE Toshihiko
 
-<!--
-**toshihiko150/toshihiko150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 💻 Software developer
+- 🏢 Akademia Limited Company in Japan (https://www.akademia.co.jp)
 
-Here are some ideas to get you started:
+### Skills
+- 💎 Ruby
+- 📱 Mobile Application Development (Java, Objective-C, Swift, Kotlin)
+- 🌏 Backend Application Development (using Rails) and building environment (Linux such as Ubuntu)
+- 📝 Basic Web Application Development (HTML, CSS, Javascript, Typescript / React)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact)
