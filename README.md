@@ -10,7 +10,10 @@
 - 🌏 Backend Application Development (using Rails) and building environment (Linux such as Ubuntu)
 - 📝 Basic Web Application Development (HTML, CSS, Javascript, Typescript / React)
 
+<!--
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toshihiko150E&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshihiko150&layout=compact)
+
+-->
